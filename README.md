@@ -4,6 +4,8 @@
 
 ## Attribution
 
+Sunrise/sunset data are powered by [SunriseSunset.io](https://sunrisesunset.io/).
+
 ## Setup & usage
 
 ## License
